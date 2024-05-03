@@ -3,6 +3,7 @@ ipykernel==6.15.3
 ipywidgets==7.8.1
 jinja2==3.0.3
 jupyter-flex==0.7.3
+lxml==4.9.1
 nbconvert==6.5.4
 numpy==1.24.4
 pandas==1.4.4
