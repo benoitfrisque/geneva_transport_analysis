@@ -9,5 +9,5 @@ nbconvert==6.5.4
 numpy==1.24.4
 pandas==1.4.4
 plotly==5.22.0
-voila==0.2.16
+voila==0.2.17
 voila-material==0.4.3
