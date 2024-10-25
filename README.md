@@ -2,9 +2,6 @@
 
 This project presents an interactive dashboard showcasing open data on public transportation in Geneva. Leveraging the Voila library for rendering and the Jupyter-flex library for layout, the dashboard offers insights into various aspects of transportation within the city.
 
-## Dashboard
-The dashboard can be accessed [here](https://geneva-transports-analysis-c361239af243.herokuapp.com/).
-
 ### Preview
 
 ![Preview](dashboard/demo.gif)
